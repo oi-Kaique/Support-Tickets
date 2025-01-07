@@ -29,4 +29,9 @@ export class Database {
     this.#persist()
 
   }
+
+  selecet(table, search){
+    let data = this.#database[table] ?? []
+    return data
+  }
 }
