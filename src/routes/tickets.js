@@ -7,10 +7,10 @@ export const tickets = [
     method: "POST",
     path: "/tickets",
     controller: create,
-    },
-    {
-      method: "GET",
-      path: "/tickets",
-      controller: index,
-      },
+  },
+  {
+    method: "GET",
+    path: "/tickets",
+    controller: index,
+  },
 ]
