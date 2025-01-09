@@ -1,3 +1,6 @@
 export function update({ req, res, database }) {
-  return res.end("OK")
+  const { id } = req.params
+  const { equipment, description } = req.body
+
+  return res.end()
 }
