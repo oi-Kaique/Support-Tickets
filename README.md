@@ -1,24 +1,12 @@
 # Project Name
 
 ## 📋 Description
-A clear and concise description of your project goes here. Explain what your project does and its main purpose.
+O Sistema de Gerenciamento de Tarefas é uma aplicação web moderna desenvolvida para otimizar a organização e o acompanhamento de atividades diárias. Com uma interface intuitiva e responsiva, o sistema permite que usuários criem, editem e gerenciem suas tarefas de forma eficiente.
 
-## 🚀 Features
-- Feature 1
-- Feature 2
-- Feature 3
-- Additional features...
 
 ## 🛠️ Technologies Used
-- Technology 1
-- Technology 2
-- Technology 3
-
-## ⚙️ Prerequisites
-List what is needed to run your project:
-- Requirement 1
-- Requirement 2
-- Requirement 3
+- Node.js
+- JavaScript
 
 ## 📥 Installation
 1. Clone the repository
