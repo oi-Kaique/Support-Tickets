@@ -58,7 +58,7 @@ http://localhost:3000
 
 
 
-````
+
 📁 Project Structure
 
 yourproject/
@@ -68,38 +68,32 @@ yourproject/
 │   └── services/
 ├── public/
 └── ...
-````
+
 
 
 🤝 Contributing
 
 Fork the project
+
 Create your feature branch (git checkout -b feature/AmazingFeature)
+
 Commit your changes (git commit -m 'Add some AmazingFeature')
+
 Push to the branch (git push origin feature/AmazingFeature)
+
 Open a Pull Request
 
 
-📝 License
-
-This project is licensed under the MIT License
-
 👥 Authors
 
-Your Name - GitHub Profile
-
-
-🙏 Acknowledgments
-Credit to anyone whose code was used
-Inspiration
-References
+Kaique Pereira
 
 
 📞 Contact
 
-Email: your.email@example.com
-LinkedIn: Your LinkedIn
-Project Link: https://github.com/yourusername/yourproject
+Email: Kaiquesouzapereria63@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/dev-kaique/
 
 
 Este modelo de README.md é completo e inclui:
